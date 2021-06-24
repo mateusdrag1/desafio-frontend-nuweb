@@ -38,16 +38,12 @@ O projeto deverá ser entregue em forma de repositório público com as instruç
 ![Preview](images/preview.png)
 <br>
 
-**Importante!** O Deezer precisa ser requisitado do lado do servidor ou com uma proxy, deixamos um configurado em ```http://localhost:3333```, basta executar ```yarn proxy```.
-
-A Proxy já está configurada para as rotas ```/chart/tracks``` e ```/search```, respectivamente para consultar as músicas mais populares e pesquisar por uma música, álbum ou artista específico.
-
-Caso você queira acessar novas rotas, adicionar no ```proxy.js```
+**Importante!** A API será disponibilizada depois.
 <br>
 
 #### Você pode seguir design acima ou não:
 
-- Header com logos da TOTVS PI Digital Workplace e Deezer
+- Header com logos da NuWeb Sounds e Spotify
 - Input para pesquisa de músicas (quando em branco deve voltar para a listagem principal)
 - Listagem
 <br>
@@ -59,5 +55,5 @@ Fique à vontade para adicionar novas funcionalidades, por exemplo player funcio
 
 ## Entrega:
 
-Disponibilize em seu repositório público e nos envie por email com assunto **"Analista / Desenvolvedor Pleno"** jutamente com seu currículo para **wilson.sousa@totvs.com.br** até 19/06/2021
+Dia: 28/06/2021 às 23:59
 <br>
